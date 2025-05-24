@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Outfit:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Young+Serif&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/boxicons@2.1.2/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Carta de amor</title>
+  </head>
+
+  <body>
+    <h1>¡con amor y cariño especial a la mejor cajera de banda de guerra!❤️</h1>
+    <p class="psorpresa">Una pequeña sorpresa para ti...</p>
+
+    <div class="contenedor" id="AbrirContenedor">
+      <div class="superior"></div>
+      <div class="mensaje">
+        Mi amor,
+
+Desde el primer redoble de tu risa, supe que mi corazón marcharía al ritmo de tu voz. Como tambor en banda de guerra, cada latido mío te nombra. Eres mi corneta al amanecer, el sonido que me despierta el alma y me recuerda que contigo todo vale la pena.
+
+A tu lado, la vida es un desfile lleno de orgullo: pasos firmes, mirada al frente y corazón en alto. Tú marcas el compás, y yo te sigo, porque no hay formación más perfecta que la de tú y yo, siempre juntos.
+
+Que nuestras almas sigan tocando al unísono, sin perder jamás el ritmo.
+
+Con todo mi amor,
+[David]
+        <p>David.</p>
+      </div>
+      <div class="carta">
+        <i class="bx bxs-heart"></i>
+      </div>
+    </div>
+
+    <div class="botones">
+      <button class="boton" id="Abrir">Abrir</button>
+      <button class="boton" id="Cerrar">Cerrar</button>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
